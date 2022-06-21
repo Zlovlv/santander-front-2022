@@ -45,6 +45,9 @@ li{
     text-align: center;
     color: #025157;
     font-weight: 500;
-.action{
+}
+.actions{
     width: 15%;
+    text-align:right;
+    font-weight:600;
 }
